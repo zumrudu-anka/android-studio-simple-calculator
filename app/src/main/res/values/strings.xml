@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="sum">+</string>
+    <string name="subs">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="result_start_text">Result : 0</string>
+</resources>
